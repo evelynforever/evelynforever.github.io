@@ -31,3 +31,19 @@ gem "wdm", "~> 0.2" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+# Gems removed from default gems since Ruby 3.4 (required by Jekyll 3.x)
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "logger"
+gem "rexml"
+gem "stringio"
+gem "strscan"
+gem "uri"
+gem "set"
+gem "timeout"
+gem "etc"
+gem "mutex_m"
+gem "drb"
+gem "securerandom"
