@@ -5,11 +5,11 @@ navbar_name: "Evelyn Liu"
 positions:
 - name: 文化扫雪工
 - name: 捕鱼者
-- name: Daydreaming 創辦人兼執行長
-- name: 7KWhere, Inc. 執行長
+- name: Daydreaming 创办人兼执行长
+- name: 7KWhere, Inc. 执行长
 
 
-email: "evelynliuxw@163.com"
+email: "evelynliuxw@gmail.com"
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ
 # github: your_github_id
@@ -20,10 +20,10 @@ email: "evelynliuxw@163.com"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Evelyn Liu 的研究興趣涵蓋多元混合CP大模型、可持續做梦系統、人工智慧與機器人技術以及大規模语言創新。現任 Daydreaming 創辦人兼執行長，並同時擔任 7KWhere, Inc. 執行長，致力於將前沿語言技術與夢境計算範式相結合，探索人機協作的新邊界。
+    Evelyn Liu 的研究兴趣涵盖多元混合CP大模型、可持续做梦系统、人工智能与机器人技术以及大规模语言创新。现任 Daydreaming 创办人兼执行长，并同时担任 7KWhere, Inc. 执行长，致力于将前沿语言技术与梦境计算范式相结合，探索人机协作的新边界。
   </p>
   <p>
-    其學術背景橫跨漢語言文學與中國古代文學，長期關注語言、文化與技術交匯領域，並在可持續做梦系統等新興方向上開展探索性研究。
+    其学术背景横跨汉语言文学与中国古代文学，长期关注语言、文化与技术交汇领域，并在可持续做梦系统等新兴方向上开展探索性研究。
   </p>
 
 portrait_url: "/assets/images/photos/kiss abdominal muscle.jpg"
@@ -31,11 +31,11 @@ portrait_caption: >-
   Evelyn Liu
 
 education:
-- name: 楚麓大学
+- name: 问津书院
   logo: /assets/images/badges/岳麓书院.jpg
   position: 汉语言文学
   date: Sep. 2019 - Jul. 2023
-- name: 国子监大學
+- name: 国子监
   logo: /assets/images/badges/Guozijian_building_1.jpg
   position: 中国古代文学
   date: Sep. 2023 - Jul. 2026
@@ -47,11 +47,9 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: 《解构》年度風雲人物
-  date: 2024
-- name: 入選《复比士》億万梦游榜
-  date: 2021
-- name: 英國皇家學會院士（jk）
-  date: 2020
-- name: 中国未完成项目保护协会终身荣誉会长
-  date: 2019
+- name: Distinguished Contributor to Cross-Century Author Relations
+  date: ""
+- name: Honorary Member, International Committee for Unfinished Reading Lists
+  date: ""
+- name: Special Contribution Award for Sustainable Beginner-Level Multilingualism
+  date: ""
